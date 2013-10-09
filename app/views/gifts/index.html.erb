@@ -18,7 +18,7 @@
       <tr>
         <td><%= gift.title %></td>
         <td><%= gift.description %></td>
-        <td><%= gift.image %></td>
+        <td><%= image_tag gift.image, width: '100px' %></td>
         <td><%= gift.price %></td>
         <td><%= link_to 'Show', gift %></td>
         <td><%= link_to 'Edit', edit_gift_path(gift) %></td>
