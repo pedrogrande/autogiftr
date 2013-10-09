@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  date: 2013-10-09
+  recipient_id: 
+
+two:
+  title: MyString
+  date: 2013-10-09
+  recipient_id: 
